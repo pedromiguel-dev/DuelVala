@@ -1,0 +1,6 @@
+data/com.github.pedromiguel_dev.DuaelVala.desktop.in
+data/com.github.pedromiguel_dev.DuaelVala.appdata.xml.in
+data/com.github.pedromiguel_dev.DuaelVala.gschema.xml
+src/main.vala
+src/window.vala
+src/window.ui
